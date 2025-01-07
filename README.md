@@ -2,7 +2,7 @@
 
 ![Build status](https://ci.appveyor.com/api/projects/status/xpc6f1g2wfugxylp?svg=true)
 
-[Результат (Сайт)]()
+[Результат (Сайт)](https://sirpen9uin.github.io/ra-16-hoc-highlights/)
 
 ## Описание
 
